@@ -1,0 +1,15 @@
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\bin\Debug\net8.0\DttLesson01.exe
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\bin\Debug\net8.0\DttLesson01.deps.json
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\bin\Debug\net8.0\DttLesson01.runtimeconfig.json
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\bin\Debug\net8.0\DttLesson01.dll
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\bin\Debug\net8.0\DttLesson01.pdb
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.AssemblyInfoInputs.cache
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.AssemblyInfo.cs
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.csproj.CoreCompileInputs.cache
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.dll
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\refint\DttLesson01.dll
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.pdb
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.genruntimeconfig.cache
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\ref\DttLesson01.dll
+E:\Hoctap\Lập trình web\DttLesson01\DttLesson01\obj\Debug\net8.0\DttLesson01.sourcelink.json
