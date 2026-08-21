@@ -1,0 +1,38 @@
+﻿@model IEnumerable<DttThucHanhBuoi2_17082026.Models.Product>
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<!-- Azure Jumbotron Banner -->
+<div class="p-5 mb-4 text-white rounded text-center"
+     style="background: linear-gradient(135deg, #0d47a1 0%, #1976d2 100%);">
+    <div class="container-fluid py-3">
+        <h1 class="display-6 fw-bold">Microsoft Azure</h1>
+        <p class="fs-6 mt-3 text-light">
+            Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.
+        </p>
+        <a href="#" class="btn btn-light btn-sm px-4 fw-semibold">Learn More</a>
+    </div>
+</div>
+
+<!-- Lưới danh mục sản phẩm (Grid 4 cột) -->
+<h4 class="mb-3 fw-normal">Danh sách sản phẩm</h4>
+<div class="row g-4">
+    @foreach (var item in Model)
+    {
+        <div class="col-12 col-sm-6 col-md-3">
+            <div class="card h-100 border text-center shadow-sm">
+                <div class="p-3 d-flex align-items-center justify-content-center" style="height: 200px;">
+                    <img src="@item.ImageUrl"
+                         asp-append-version="true"
+                         class="img-fluid"
+                         alt="@item.Name"
+                         style="max-height: 160px; object-fit: contain;" />
+                </div>
+                <div class="card-body border-top py-2 bg-light">
+                    <p class="card-text text-muted fw-semibold mb-0">@item.Name</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

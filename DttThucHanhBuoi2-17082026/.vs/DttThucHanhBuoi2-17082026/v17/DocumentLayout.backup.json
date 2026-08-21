@@ -1,7 +1,56 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Hoctap\\L\u1EADp tr\u00ECnh web\\DttThucHanhBuoi2-17082026\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\home\\sanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\home\\trangchu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|e:\\hoctap\\laptrinhweb\\dttthuchanhbuoi2-17082026\\dttthuchanhbuoi2-17082026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{10B78DE2-8DC6-48D9-A5B0-4133E83D0FB6}|DttThucHanhBuoi2-17082026.csproj|solutionrelative:dttthuchanhbuoi2-17082026.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +71,157 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Home\\SanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SanPham.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Home\\SanPham.cshtml",
+              "RelativeToolTip": "Views\\Home\\SanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T11:24:03.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T11:31:27.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T11:17:43.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T11:17:48.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-18T11:17:44.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T11:35:08.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:40:17.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrangChu.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Home\\TrangChu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TrangChu.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Home\\TrangChu.cshtml",
+              "RelativeToolTip": "Views\\Home\\TrangChu.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwCUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T11:41:35.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T11:32:01.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-21T11:15:02.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T11:17:29.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DttThucHanhBuoi2-17082026.csproj",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\DttThucHanhBuoi2-17082026.csproj",
+              "RelativeDocumentMoniker": "DttThucHanhBuoi2-17082026.csproj",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\DttThucHanhBuoi2-17082026\\DttThucHanhBuoi2-17082026.csproj",
+              "RelativeToolTip": "DttThucHanhBuoi2-17082026.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T11:17:27.397Z"
             }
           ]
         }

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DttThucHanhBuoi2-17082026/1.0.0": {
+        "runtime": {
+          "DttThucHanhBuoi2-17082026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DttThucHanhBuoi2-17082026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

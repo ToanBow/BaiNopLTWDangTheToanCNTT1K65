@@ -1,32 +1,30 @@
-using System.Diagnostics;
+﻿using Microsoft.AspNetCore.Mvc;
 using DttThucHanhBuoi2_17082026.Models;
-using Microsoft.AspNetCore.Mvc;
 
-namespace DttThucHanhBuoi2_17082026.Controllers
+namespace DttThucHanhBuoi2_17082026.Controllers;
+
+public class HomeController : Controller
 {
-    public class HomeController : Controller
-    {
-        private readonly ILogger<HomeController> _logger;
+    private static readonly IReadOnlyList<Product> SampleData =
+    [
+        new(1, "Product Name 1", 500000m, new DateTime(2020, 12, 25), "/images/bag1.jpg"),
+        new(2, "Product Name 2", 700000m, new DateTime(2020, 12, 25), "/images/bag2.jpg"),
+        new(3, "Product Name 3", 550000m, new DateTime(2020, 12, 25), "/images/bag3.jpg"),
+        new(4, "Product Name 4", 550000m, new DateTime(2020, 12, 25), "/images/bag4.jpg")
+    ];
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+    [HttpGet]
+    public IActionResult Index() => RedirectToAction(nameof(TrangChu));
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+    [HttpGet]
+    public IActionResult TrangChu() => View(SampleData);
 
-        public IActionResult Privacy()
-        {
-            return View();
-        }
+    [HttpGet]
+    public IActionResult SanPham() => View(SampleData);
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-    }
+    [HttpGet]
+    public IActionResult GioiThieu() => View();
+
+    [HttpGet]
+    public IActionResult LienHe() => View();
 }
