@@ -1,0 +1,82 @@
+﻿@model DttThucHanhBuoi3_21082026.Models.ProductDto
+@{
+    ViewData["Title"] = "Chi tiết sản phẩm";
+}
+
+<style>
+    .detail-img-box {
+        max-width: 380px;
+        border: 1px solid #e0e0e0;
+        padding: 15px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+        .detail-img-box img {
+            max-width: 100%;
+            height: auto;
+            object-fit: contain;
+        }
+
+    .product-heading {
+        font-size: 1.4rem;
+        font-weight: 500;
+        color: #222;
+    }
+
+    .btn-back {
+        background-color: #d9534f;
+        color: #fff;
+        border: none;
+        font-size: 0.85rem;
+        padding: 4px 14px;
+    }
+
+        .btn-back:hover {
+            background-color: #c9302c;
+            color: #fff;
+        }
+</style>
+
+<div class="container mt-4">
+    <h3 class="fw-normal mb-4">Chi tiết sản phẩm</h3>
+
+    <div class="row">
+        <!-- Cột Ảnh chi tiết bên trái -->
+        <div class="col-12 col-md-5 mb-4">
+            <div class="detail-img-box shadow-sm">
+                <img src="@Model.ImageUrl" asp-append-version="true" alt="@Model.Name" />
+            </div>
+        </div>
+
+        <!-- Cột Thông tin chi tiết bên phải -->
+        <div class="col-12 col-md-7">
+            <h4 class="product-heading mb-3">Sản phẩm: @Model.Name</h4>
+
+            <p class="fs-5 mb-3">
+                <span>Giá gốc: <del class="text-muted">@Model.OriginalPrice.ToString("N0")</del></span>
+                <span class="ms-3 text-dark">Giá mới: <strong>@Model.SalePrice.ToString("N0")</strong></span>
+            </p>
+
+            <div class="mb-3">
+                <h6 class="fw-bold mb-1">Mô Tả:</h6>
+                <p class="text-muted small">@Model.Description</p>
+            </div>
+
+            <p class="mb-2">
+                <strong>Trạng thái:</strong>
+                <span class="@(Model.Instock ? "text-success" : "text-danger")">
+                    @(Model.Instock ? "Còn hàng" : "Hết hàng")
+                </span>
+            </p>
+
+            <p class="mb-4">
+                <strong>Ngày đăng:</strong> @Model.CreateAt.ToString("dd/MM/yyyy HH:mm:ss")
+            </p>
+
+            <!-- Nút quay lại danh mục sản phẩm -->
+            <a asp-action="Index" class="btn btn-back rounded-1">Về danh sách</a>
+        </div>
+    </div>
+</div>
