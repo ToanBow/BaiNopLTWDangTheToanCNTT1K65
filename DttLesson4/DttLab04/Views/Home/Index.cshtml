@@ -1,0 +1,20 @@
+﻿@{
+    // Layout = "my_layout";
+    ViewData["Title"] = "Home Page";
+}
+<partial name="_Banner" />
+
+<hr />
+<button id="loadAjax" class="btn btn-sm btn-primary">Click load book từ partialResult</button>
+<hr />
+
+<div id="data-from-ajax" class="row">Loading data...</div>
+<hr />
+
+@section Scripts{
+    <script>
+        $('#loadAjax').click(function(){
+            $('#data-from-ajax').load("/Book/PopularBook");
+        })
+    </script>
+}

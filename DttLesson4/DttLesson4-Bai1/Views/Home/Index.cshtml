@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "Cú pháp Razor";
+}
+
+<h2>Cú pháp Razor</h2>
+@{
+    var total = 7000;
+}
+@{
+    var myMessage = "Biết người là trí, biết bản thân mới là trí tuệ thật sự. " +
+                            "Thắng người là sự mạnh mẽ, thắng bản thân mới là sức mạnh thực sự";
+}
+
+<p>Tài khoản của bạn đang có: $@total</p>
+<p>Câu nói để đời của Lão tử: @myMessage</p>
+
+@{
+    var greeting = "Chúc bạn thành công!";
+    var weekDay = DateTime.Now.DayOfWeek;
+    var greetingMessage = greeting + " Hôm nay là: " + weekDay;
+}
+<p>Lời chúc: @greetingMessage</p>
+
+<!--Cấu trúc if-else-->
+<h2>Cấu trúc if-else</h2>
+@if (total >= 5000)
+{
+    <p>Bạn nằm trong số 30% những người giàu nhất thế giới</p>
+}else if (total >= 2000)
+{
+    <p>Bạn nằm trong số 50% những người giàu nhất thế giới</p>
+}
+else
+{
+    <p>Chưa có số liệu thống kê</p>
+}
+
+@{
+    if (total % 2 == 2)
+    {
+        <p>Số tiền trong tài khoản của bạn là số chẵn</p>
+    }
+    else
+    {
+        <p>Số tiền trong tài khoản của bạn là số lẻ</p>
+    }
+}
+
+<!-- Cấu trúc lặp -->
+<h2>Cấu trúc lặp</h2>
+@{
+    for(int i = 0; i < 10; i++)
+    {
+        if (i % 2 == 0)
+        {
+            <span class="btn btn-danger">@i</span>
+        }
+        else
+        {
+            <span class="btn btn-success">@i</span>
+        }
+    }
+    string[] images = { "icon1.png", "icon2.png", "icon3.png", "icon4.png", "icon5.png", "icon6.png" };
+    <hr />
+    @foreach(var c in images)
+    {
+        <img src ="/images/@c" width="100" />
+    }
+}
+

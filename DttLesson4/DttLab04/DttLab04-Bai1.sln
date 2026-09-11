@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37516.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DttLab04", "DttLab04.csproj", "{218BCEB3-2BF8-4C0F-BCCE-887D4CFEB2CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{218BCEB3-2BF8-4C0F-BCCE-887D4CFEB2CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218BCEB3-2BF8-4C0F-BCCE-887D4CFEB2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218BCEB3-2BF8-4C0F-BCCE-887D4CFEB2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218BCEB3-2BF8-4C0F-BCCE-887D4CFEB2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA323EB-4BBE-4660-B946-3DC5F0110DD3}
+	EndGlobalSection
+EndGlobal
