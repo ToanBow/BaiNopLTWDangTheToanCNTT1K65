@@ -1,0 +1,17 @@
+﻿@model IEnumerable<DttBaiTapLab.Models.DanhMuc>
+<!DOCTYPE html>
+
+<div class="card">
+	<div class="card-header bg-primary text-white font-weight font-weight-bold">
+		Danh mục sản phẩm
+	</div>
+	<ul class="list-group list-group-flush">
+		@foreach(var danhmuc in Model)
+		{
+			<li class="list-group-item">
+				<a hred="#" class="text-decoration-none text-dark">@danhmuc.Title</a>
+			</li>
+		}
+	</ul>
+</div>
+</html>

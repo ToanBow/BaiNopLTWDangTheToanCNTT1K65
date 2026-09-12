@@ -1,0 +1,21 @@
+﻿@model IEnumerable<DttBaiTapLab.Models.Product>
+@{
+    ViewData["Title"] = "Home Page";
+}
+<div class="p-2 mb-3 text-white bg-primary rounded">
+    <h4 class="m-0">Sản phẩm Hot</h4>
+</div>
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-3 col-sm-6 mb-4">
+            <div class="card h-100 p-2 text-center border">
+                <img src="@product.Image" alt="@product.Title" class="card-img-top mx-auto" style="width:150px; height:150px; object-fit:cover;" />
+
+                <div class="card-body d-flex flex-column">
+                    <h6 class="card-title text-dark">@product.Title</h6>
+                </div>
+            </div>
+        </div>
+    }
+</div>
