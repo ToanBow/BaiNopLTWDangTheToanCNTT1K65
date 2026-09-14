@@ -1,0 +1,12 @@
+﻿@model IEnumerable<DtLesson05Components.Models.DttCategory>
+
+<ul class="list-group">
+	<li class="list-group-item active">Danh mục</li>
+	@foreach(var item in Model)
+	{
+		<li class="list-group-item"">
+			<a asp-controller="DttProduct" asp-action="Index" asp-route-categoryId="@item.CategoryId"></a>
+			<p>@item.CategoryName</p>
+		</li>
+	}
+</ul>
