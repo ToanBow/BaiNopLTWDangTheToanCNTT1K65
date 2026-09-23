@@ -1,0 +1,49 @@
+@model DttLesson06Models.Models.DttMember
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>DttMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="DttMemberId" />
+            <div class="form-group">
+                <label asp-for="DttMemberUserName" class="control-label"></label>
+                <input asp-for="DttMemberUserName" class="form-control" />
+                <span asp-validation-for="DttMemberUserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DttMemberFullName" class="control-label"></label>
+                <input asp-for="DttMemberFullName" class="form-control" />
+                <span asp-validation-for="DttMemberFullName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DttPassword" class="control-label"></label>
+                <input asp-for="DttPassword" class="form-control" />
+                <span asp-validation-for="DttPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DttMemberEmail" class="control-label"></label>
+                <input asp-for="DttMemberEmail" class="form-control" />
+                <span asp-validation-for="DttMemberEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,59 @@
+@model IEnumerable<DttLesson06Models.Models.DttMember>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="DttCreate">Create New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DttMemberId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DttMemberUserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DttMemberFullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DttPassword)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DttMemberEmail)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.DttMemberId)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.DttMemberUserName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.DttMemberFullName)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.DttPassword)
+            </td>
+            <td>
+                @Html.DisplayFor(model => item.DttMemberEmail)
+            </td>
+            <td>
+                <a asp-action="DttEdit" asp-route-id="@item.DttMemberId">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.DttMemberId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.DttMemberId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

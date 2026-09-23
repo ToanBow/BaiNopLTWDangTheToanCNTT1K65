@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DttLab04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c19780dd3aaf34a8769f320ef63c2db1f197009e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e3c1050647cbf5363c7fefe341e87ba9074b83f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DttLab04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DttLab04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
