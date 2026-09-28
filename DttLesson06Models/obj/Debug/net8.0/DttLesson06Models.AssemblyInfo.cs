@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DttLesson06Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e3c1050647cbf5363c7fefe341e87ba9074b83f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd6b17ed3029b43e8adbaba7d1b2cd2aeaef5555")]
 [assembly: System.Reflection.AssemblyProductAttribute("DttLesson06Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DttLesson06Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

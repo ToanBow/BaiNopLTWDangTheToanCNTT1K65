@@ -1,0 +1,61 @@
+@model DttLesson07ThucHanhTrongSlide.Models.DttMember
+
+@{
+    ViewData["Title"] = "Create";
+    
+}
+
+<h1>Create</h1>
+@Html.Raw(ViewBag.msg)
+<h4>DttMember</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="DttUserName" class="control-label"></label>
+                <input asp-for="DttUserName" class="form-control" />
+                <span asp-validation-for="DttUserName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DttFullName" class="control-label"></label>
+                <input asp-for="DttFullName" class="form-control" />
+                <span asp-validation-for="DttFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DttEmail" class="control-label"></label>
+                <input asp-for="DttEmail" class="form-control" />
+                <span asp-validation-for="DttEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DttPassword" class="control-label"></label>
+                <input asp-for="DttPassword" class="form-control" />
+                <span asp-validation-for="DttPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DttPhone" class="control-label"></label>
+                <input asp-for="DttPhone" class="form-control" />
+                <span asp-validation-for="DttPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DttBirthday" class="control-label"></label>
+                <input asp-for="DttBirthday" class="form-control" />
+                <span asp-validation-for="DttBirthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

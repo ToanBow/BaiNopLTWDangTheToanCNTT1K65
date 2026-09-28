@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:controllers\\dttmembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\dttmember\\dttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\dttmember\\dttindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\dttmember\\dttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\dttmember\\dttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\dttmember\\dttgetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\dttmember\\dttgetdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\dttmember\\dttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\dttmember\\dttedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\dttmember\\dttcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,20 +27,20 @@
       "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:models\\dttmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\home\\dttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\home\\dttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\home\\dttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|solutionrelative:views\\home\\dttabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AE96414-4CD2-4A55-9F8B-A37C84E13878}|DttLesson06Models.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson06models\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,36 +65,6 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DttEdit.cshtml",
-              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttEdit.cshtml",
-              "RelativeDocumentMoniker": "Views\\DttMember\\DttEdit.cshtml",
-              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttEdit.cshtml",
-              "RelativeToolTip": "Views\\DttMember\\DttEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T08:22:05.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DttIndex.cshtml",
-              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttIndex.cshtml",
-              "RelativeDocumentMoniker": "Views\\DttMember\\DttIndex.cshtml",
-              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttIndex.cshtml",
-              "RelativeToolTip": "Views\\DttMember\\DttIndex.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T08:00:29.904Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DttMemberController.cs",
@@ -102,14 +72,14 @@
               "RelativeDocumentMoniker": "Controllers\\DttMemberController.cs",
               "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Controllers\\DttMemberController.cs",
               "RelativeToolTip": "Controllers\\DttMemberController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwEoAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-21T00:47:14.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DttGetDetails.cshtml",
               "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttGetDetails.cshtml",
               "RelativeDocumentMoniker": "Views\\DttMember\\DttGetDetails.cshtml",
@@ -117,8 +87,7 @@
               "RelativeToolTip": "Views\\DttMember\\DttGetDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T07:37:58.977Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T07:37:58.977Z"
             },
             {
               "$type": "Document",
@@ -128,10 +97,21 @@
               "RelativeDocumentMoniker": "Views\\DttMember\\DttCreate.cshtml",
               "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttCreate.cshtml",
               "RelativeToolTip": "Views\\DttMember\\DttCreate.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T08:07:56.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T08:07:56.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DttEdit.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\DttMember\\DttEdit.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\DttMember\\DttEdit.cshtml",
+              "RelativeToolTip": "Views\\DttMember\\DttEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:22:05.218Z"
             },
             {
               "$type": "Document",
@@ -143,38 +123,11 @@
               "RelativeToolTip": "Models\\DttMember.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T00:44:48.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T00:44:48.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DttAbout.cshtml",
-              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\DttAbout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\DttAbout.cshtml",
-              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\DttAbout.cshtml",
-              "RelativeToolTip": "Views\\Home\\DttAbout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-21T00:42:30.478Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-23T08:01:43.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -182,12 +135,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-21T00:41:23.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T00:41:23.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -195,8 +147,43 @@
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T07:47:58.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-23T07:47:58.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DttAbout.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\DttAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\DttAbout.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\DttAbout.cshtml",
+              "RelativeToolTip": "Views\\Home\\DttAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T00:42:30.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T09:11:10.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson06Models\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-23T08:01:43.285Z"
             },
             {
               "$type": "Document",
@@ -208,8 +195,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAcwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-21T00:40:17.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-21T00:40:17.834Z"
             }
           ]
         },
