@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DttBtLapSvTuLamThem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+729bb6801dd7b97a61c4b54897d81e6c5a538f02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2454d99506c4c7438747864d3ae9de5cd61aa82e")]
 [assembly: System.Reflection.AssemblyProductAttribute("DttBtLapSvTuLamThem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DttBtLapSvTuLamThem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

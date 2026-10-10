@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DttBtLapSvTuLamThem.Models
 {
@@ -11,6 +12,7 @@ namespace DttBtLapSvTuLamThem.Models
         public string Name { get; set; }
 
         public string? Image {  get; set; }
+        [NotMapped]
 
         [Required(ErrorMessage = "Vui lòng chọn ảnh sản phẩm")]
         public IFormFile ImageFile { get; set; }
