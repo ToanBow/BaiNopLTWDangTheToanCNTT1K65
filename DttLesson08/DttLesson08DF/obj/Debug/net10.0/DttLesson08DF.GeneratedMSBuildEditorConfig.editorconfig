@@ -31,112 +31,112 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Account/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDcmVhdGUuY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Account/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZWxldGUuY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Account/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Account/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxFZGl0LmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Account/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Book/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xDcmVhdGUuY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Book/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZWxldGUuY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Book/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xEZXRhaWxzLmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Books/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Book/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xFZGl0LmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Book/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xJbmRleC5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Category/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Categories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Category/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Categories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Category/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Categories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Category/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Categories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Categories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Homes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Homes/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetail/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcQ3JlYXRlLmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetail/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcRGVsZXRlLmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetail/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcRGV0YWlscy5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetail/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcRWRpdC5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetail/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxcSW5kZXguY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/OrderDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3JkZXJEZXRhaWxzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publisher/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXENyZWF0ZS5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publishers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publisher/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXERlbGV0ZS5jc2h0bWw=
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publishers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publisher/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXERldGFpbHMuY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publishers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publisher/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXEVkaXQuY3NodG1s
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publishers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publisher/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyXEluZGV4LmNzaHRtbA==
+[E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Publishers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHVibGlzaGVyc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Hoctap/LapTrinhWeb/BaiNopLTWDangTheToanCNTT1K65/DttLesson08/DttLesson08DF/Views/Shared/Error.cshtml]

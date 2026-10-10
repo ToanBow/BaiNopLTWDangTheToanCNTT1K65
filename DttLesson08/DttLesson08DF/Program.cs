@@ -3,8 +3,8 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("BookStoreDbContext") ?? throw new InvalidOperationException("Connection string 'BookStoreDbContext' not found.");
 
-builder.Services.AddDbContext<BookStoreDbContext>(options => options.UseSqlServer(connectionString));
-
+builder.Services.AddDbContext<BookStoreDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
