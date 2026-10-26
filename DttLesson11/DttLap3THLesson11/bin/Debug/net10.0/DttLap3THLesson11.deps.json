@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DttLap3THLesson11/1.0.0": {
+        "runtime": {
+          "DttLap3THLesson11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DttLap3THLesson11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

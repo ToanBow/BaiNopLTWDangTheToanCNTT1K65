@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48CF228E-4A11-45EF-8534-95AEC4F5753B}|DttLap2.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap2\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48CF228E-4A11-45EF-8534-95AEC4F5753B}|DttLap2.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{36B5B1A6-09DC-886F-8C67-36090F3506C8}|DttLap2.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap2\\views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B5B1A6-09DC-886F-8C67-36090F3506C8}|DttLap2.csproj|solutionrelative:views\\shared\\mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48CF228E-4A11-45EF-8534-95AEC4F5753B}|DttLap2.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48CF228E-4A11-45EF-8534-95AEC4F5753B}|DttLap2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{36B5B1A6-09DC-886F-8C67-36090F3506C8}|DttLap2.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B5B1A6-09DC-886F-8C67-36090F3506C8}|DttLap2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-19T01:37:33.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T01:37:33.305Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Views\\Shared\\MyLayout.cshtml",
               "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap2\\Views\\Shared\\MyLayout.cshtml",
               "RelativeToolTip": "Views\\Shared\\MyLayout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-19T01:36:56.926Z",
               "EditorCaption": ""

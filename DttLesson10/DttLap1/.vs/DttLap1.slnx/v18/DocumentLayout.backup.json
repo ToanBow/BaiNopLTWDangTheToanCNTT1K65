@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{047265B8-39DE-4C6A-A391-2C17B45993B2}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{047265B8-39DE-4C6A-A391-2C17B45993B2}|DttLap1.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047265B8-39DE-4C6A-A391-2C17B45993B2}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{047265B8-39DE-4C6A-A391-2C17B45993B2}|DttLap1.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{047265B8-39DE-4C6A-A391-2C17B45993B2}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{047265B8-39DE-4C6A-A391-2C17B45993B2}|DttLap1.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|e:\\hoctap\\laptrinhweb\\bainopltwdangthetoancntt1k65\\dttlesson10\\dttlap1\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{625B00FC-EBA0-7965-5461-297C074031B0}|DttLap1.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,8 +37,29 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-26T00:34:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Views\\Student\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
@@ -47,26 +72,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
-              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Views\\Student\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Student\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-19T00:40:31.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StudentController.cs",
               "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
               "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson10\\DttLap1\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAIwC4AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-19T00:28:14.42Z",
               "EditorCaption": ""
