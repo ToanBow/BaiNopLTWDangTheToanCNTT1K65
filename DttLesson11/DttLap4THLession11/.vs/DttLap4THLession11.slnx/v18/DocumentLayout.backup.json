@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,19 +71,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson11\\DttLap4THLession11\\Views\\Learner\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Learner\\Index.cshtml",
-              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson11\\DttLap4THLession11\\Views\\Learner\\Index.cshtml",
-              "RelativeToolTip": "Views\\Learner\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-26T02:24:23.51Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,6 +96,19 @@
               "ViewState": "AgIAAAUAAAAAAAAAAADgvxEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T01:55:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson11\\DttLap4THLession11\\Views\\Learner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Learner\\Index.cshtml",
+              "ToolTip": "E:\\Hoctap\\LapTrinhWeb\\BaiNopLTWDangTheToanCNTT1K65\\DttLesson11\\DttLap4THLession11\\Views\\Learner\\Index.cshtml",
+              "RelativeToolTip": "Views\\Learner\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T02:24:23.51Z",
               "EditorCaption": ""
             },
             {
