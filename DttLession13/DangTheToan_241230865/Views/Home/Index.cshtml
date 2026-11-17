@@ -1,0 +1,32 @@
+﻿@{
+	Layout = "~/Views/Shared/DangTheToan_Layout.cshtml";
+}
+
+<div class="main">
+	<div class="content">
+		<!-- Begin New Product -->
+		<div class="content_top">
+			<div class="heading">
+				<h3>ĐẶNG THẾ TOÀN</h3>
+			</div>
+			<div class="see">
+				<p><a href="#">See all Products</a></p>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="products-list" class="section group">
+			@if (Model != null)
+			{
+				foreach(var item in Model)
+				{
+					<div class="grid_1_of_4 images_1_of_4">
+						<a href="#">
+							<img
+						</a>
+					</div>
+				}
+			}
+		</div>
+
+	</div>
+</div>

@@ -1,0 +1,15 @@
+﻿@model IEnumerable<DangTheToan_241230865.Models.LoaiHang>
+<div class="menu">
+	<ul>
+		<li class="active">
+			<a asp-controller="Home" asp-action="Index">Đặng Thế Toàn</a>
+		</li>
+		@foreach(var item in Model)
+		{
+			<li>
+				<a href="javascript:void(0)" class="loai-hang-link" data-id="@item.MaLoai">@item.TenLoai</a>
+			</li>
+		}
+		<div class="clear"></div>
+	</ul>
+</div>
