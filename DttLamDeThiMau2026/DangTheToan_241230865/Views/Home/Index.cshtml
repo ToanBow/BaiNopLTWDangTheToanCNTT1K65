@@ -1,0 +1,32 @@
+﻿@model IEnumerable<DangTheToan_241230865.Models.Sach>
+
+<div id="main-book-area">
+	<partial name="_SachList" model="Model" />
+</div>
+
+@section Scripts{
+	<script>
+		$(document).ready(function () {
+			$(".the-loai-link").click(function (e) {
+				e.preventDefault();
+
+				$(".menu li").removeClass("active");
+				$(this).parent("li").addClass("active");
+
+				var maTL = $(this).data("id");
+
+				$.ajax({
+					url:'@Url.Action("GetSachByTheLoai","Home")',
+					type:'GET',
+					data: {maTl:maTL},
+					success:function(response){
+						$("#main-book-area").html(response);
+					},
+					error: function () {
+						alert("Lỗi khi tải danh sách");
+					}
+				})
+			})
+		})
+	</script>
+}
