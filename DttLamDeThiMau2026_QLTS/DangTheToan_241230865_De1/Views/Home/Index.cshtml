@@ -1,0 +1,8 @@
+﻿@model IEnumerable<DangTheToan_241230865_De1.Models.TaiSan>
+@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div id="ajax-asset-container">
+    @await Html.PartialAsync("_DanhSachTaiSan",Model)
+</div>

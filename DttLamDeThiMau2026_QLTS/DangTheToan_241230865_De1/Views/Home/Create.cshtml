@@ -1,0 +1,44 @@
+﻿@model DangTheToan_241230865_De1.Models.TaiSan
+
+@{
+	ViewData["Title"] = "Thêm tài sản mới";
+}
+
+<div style="max-width:600px;margin:30px auto;background:#fff;padding:30px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.08);">
+	<h2 style="margin-bottom:20px;color:#1a365d;font-size:20px;">THÊM TÀI SẢN MỚI</h2>
+
+	<form asp-action="Create" method="post">
+		<div style="margin-bottom:15px;">
+			<label asp-for="MaLoai" style="display:block;font-weight:600;margin-bottom:6px;">Loại tài sản</label>
+			<select asp-for="MaLoai" asp-items="ViewBag.MaLoai" style="width:100%;padding:10px;border:1px solid #cbd5e1;border-radius:4px;"></select>
+			<span asp-validation-for="MaLoai" style="color:#dc2626;font-size:13px;"></span>
+		</div>
+
+		<div style="margin-bottom:15px;">
+			<label asp-for="TenTs" style="display:block;font-weight:600;margin-bottom:6px;">Tên tài sản</label>
+			<input asp-for="TenTs" style="width:100%;padding:10px;border:1px solid #cbd5e1;border-radius:4px;"></input>
+			<span asp-validation-for="TenTs" style="color:#dc2626;font-size:13px;"></span>
+		</div>
+
+		<div style="margin-bottom:15px;">
+			<label asp-for="NguyenGia" style="display:block;font-weight:600;margin-bottom:6px;">Nguyên giá</label>
+			<input asp-for="NguyenGia" type="number" style="width:100%;padding:10px;border:1px solid #cbd5e1;border-radius:4px;"></input>
+			<span asp-validation-for="NguyenGia" style="color:#dc2626;font-size:13px;"></span>
+		</div>
+
+		<div style="margin-bottom:15px;">
+			<label asp-for="Anh" style="display:block;font-weight:600;margin-bottom:6px;">Ảnh</label>
+			<input asp-for="Anh" placeholder="Img_1.jpg" style="width:100%;padding:10px;border:1px solid #cbd5e1;border-radius:4px;"></input>
+			<span asp-validation-for="Anh" style="color:#dc2626;font-size:13px;"></span>
+		</div>
+
+		<button type="submit" style="background:#1e3a8a;color:#fff;border:none;padding:10px 24px;border-radius:4px;font-weight:600;cursor:pointer;">Create</button>
+		<a asp-action="Index" style="margin-left:12px; color:#475569;text-decoration:none;">Quay lại</a>
+	</form>
+</div>
+
+@section Scripts{
+@{
+		await Html.RenderPartialAsync("_ValidationScriptsPartial");
+	}
+}
